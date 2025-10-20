@@ -119,7 +119,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
         </div>
     </main>
     <footer>
-        <p>Stronę wykonał:Adam :3</p>
+        <p>Stronę wykonał: 09291305232</p>
     </footer>
 </body>
 

@@ -113,7 +113,7 @@ $conn = new mysqli("localhost", "root", "", "wyprawy");
         </section>
     </main>
     <footer>
-        <p>Autor: 123123123</p>
+        <p>Autor: 09291305232</p>
     </footer>
 </body>
 
